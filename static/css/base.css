@@ -10,6 +10,10 @@ body {
     font-family: 'Playfair Display';
 }
 
+.bg-black {
+    background-color: black;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
