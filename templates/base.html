@@ -96,6 +96,32 @@
                 </ul>
             </div>
         </div>
+        <div class="row bg-black">
+            <nav class="navbar navbar-expand-lg navbar-light w-100">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <ul class="navbar-nav w-auto mx-auto">
+                    <li class="nav-item">
+                        <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" aria-haspopup="true">
+                            About
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" aria-haspopup="true">
+                            Shop
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" aria-haspopup="true">
+                            Bundles
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            
+            {% include 'includes/mobile-top-header.html' %}
+        </div>
     </header>
 
     {% if messages %}
