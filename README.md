@@ -1,9 +1,9 @@
 # Kaffa Coffee
 
-Kaffa Coffee is a potential Ethiopian coffee shop that I have built as my e-commerce specialization Project Portfolio 5 for my diploma in Full Stack Software Development at Code Institute. 
+[Kaffa Coffee](https://kaffa-coffee-1c360e949e52.herokuapp.com/) is a potential Ethiopian coffee shop that I have built as my e-commerce specialization Project Portfolio 5 for my diploma in Full Stack Software Development at Code Institute. 
 This webshop is built for coffee lovers, from “the kingdom of kaffa” (i.e. Ethiopia), where the origin of coffee started. The webshop is simple and straight to the point, with a shop page, about page and of course a sign up page so that the users can sign up for newsletters and get all the updates about the business and if there is any new coffee available. 
 <img width="627" alt="homepage_desktop" src="https://github.com/MiswaQ/kaffa-coffee/assets/121927777/d8e4dd40-8c27-437d-b5ca-c70f02e52cb9">
-<br>_(This is how I envision the landing page when the project is finished)_
+<br>(This is how I envision the landing page when the project is finished)
 
 ## Planning
 At the beginning of this project I started out with these three questions to get a better idea of what type of application I wanted to build, and the outcome is as follows:
@@ -35,16 +35,16 @@ But this is approximently the way I want it to look when the project is finished
 <br>
 ### Navigation bar
 <img width="627" alt="navbar_desktop" src="https://github.com/MiswaQ/kaffa-coffee/assets/121927777/8fac87df-08d4-4347-9a41-c1094715170a">
-<br>_(This is how I envision the navigation bar on desktop when the project is finished)_
+<br>(This is how I envision the navigation bar on desktop when the project is finished)
 <br> Simple and easy to use.
 <br>
 <br>
 <img width="288" alt="navbar_mobile" src="https://github.com/MiswaQ/kaffa-coffee/assets/121927777/cc6aa6b3-a4cb-40b0-8a88-60c278326c05">
-<br>_(This is how I envision the navigation bar on smaller devices when the project is finished)_
+<br>(This is how I envision the navigation bar on smaller devices when the project is finished)
 
 ### Landing page
 <img width="627" alt="homepage_desktop" src="https://github.com/MiswaQ/kaffa-coffee/assets/121927777/35ba6d45-4745-4539-af0d-33d2a8f95c36">
-<br>_(This is how I envision the landing page when the project is finished)_
+<br>(This is how I envision the landing page when the project is finished)
 
 ### Bundles
 <img width="627" alt="bundles" src="https://github.com/MiswaQ/kaffa-coffee/assets/121927777/28826fcb-ac61-4d7d-a7f1-884ed7a14372">
@@ -72,6 +72,7 @@ I decided to have a dark themed website as I feel that it resembles the dark cof
 The homepage gives the users a small introduction about this business and also states the favorite coffees. For the users to get interested in buying some of those coffees. Or get interested in seeing what more this business has to offer.
 
 ## SEO
+I am going to develop this project and make it as SEO smart as possible, since the project is far from done, I have not come to that point yet.
 
 ## Testing
 You will find all of the information about how I did my testing in the TESTING.md file when the project is finished.
@@ -92,7 +93,9 @@ For now I was adviced that if I don't want to create a new account, I can just c
 4. Connect.
 5. Select the branch you want to deploy and click Deploy Branch.
 6. When the process is done. Open App on top of the page to access the app.
-
+<br>
+<br>
+You can find the deployed link here https://kaffa-coffee-1c360e949e52.herokuapp.com/
 ## Credits
 
 ### Content
