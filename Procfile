@@ -1,1 +1,1 @@
-web: gunicorn kaffa_coffee.wsgi
+web: gunicorn kaffa_coffee.wsgi:application
