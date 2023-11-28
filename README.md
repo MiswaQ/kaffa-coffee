@@ -50,7 +50,13 @@ You can find all of the information about how I did my testing in (link to TESTI
 
 ## Deployment 
 
-Explaining how you deployed this project with live link
+### Deploy to Heroku
+1. Log in to Heroku and create an App.
+2. On the deploy tab, choose GitHub as the deployment method.
+3. Select your repo name and click search.
+4. Connect.
+5. Select the branch you want to deploy and click Deploy Branch.
+6. When the process is done. Open App on top of the page to access the app.
 
 ## Credits
 
