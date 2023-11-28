@@ -45,6 +45,12 @@ But this is approximently the way I want it to look when the project is finished
 
 ### Footer
 
+## Design
+I decided to have a dark themed website as I feel that it resembles the dark coffee and gives the site a nice feeling. The links also have a nice touch with the bright colors from the Ethiopian flag, green, yellow and red.
+<br>
+<br>
+The homepage gives the users a small introduction about this business and also states the favorite coffees. For the users to get interested in buying some of those coffees. Or get interested in seeing what more this business has to offer.
+
 ## Testing
 You can find all of the information about how I did my testing in (link to TESTING.md file)
 
