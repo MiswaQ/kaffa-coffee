@@ -19,17 +19,18 @@ At the beginning of this project I started out with these three questions to get
 Then I followed up with these three questions to plan my e-commerce application:
 <br>
 - **Which e-commerce application types apply to this online business?**
-  B2C, Products, Single payments
+  <br> B2C, Products, Single payments
 - **With the e-commerce application types in mind, what kind of features might be included within the business website?**
-  Easy Payment, Authentication System for users to log in/out and access their relevant data, Authentication with social accounts for easier registration, Search Function, Images, Product Description, Ratings/Reviews, Contact Form, Shopping Cart and Payment System
+  <br> Easy Payment, Authentication System for users to log in/out and access their relevant data, Authentication with social accounts for easier registration, Search Function, Images, Product Description, Ratings/Reviews, Contact Form, Shopping Cart and Payment System
 - **What tables of data would my database need, and what data might be included in these tables?**
-  User: username, email, password
-  Product: name, image, price, description, size, rating
-  Order: User, total, full_name, address
-  OrderItem: Order, Product, quantity
+  <br> User: username, email, password
+  <br> Product: name, image, price, description, size, rating
+  <br> Order: User, total, full_name, address
+  <br> OrderItem: Order, Product, quantity
 
 ## Features
-Explaining what type of features you want to have when finished
+I have just started off with my project. Because of medical leave and parental leave I have lost some time and fallen behind.
+But this is approximently the way I want it to look when the project is finished. All of the images comes from my wireframes and this is how I am imagin it to look like.
 <br>
 <br>
 ### Navigation bar
