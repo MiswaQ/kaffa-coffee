@@ -29,9 +29,9 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False # 'DEVELOPMENT' in os.environ
+DEBUG = True # 'DEVELOPMENT' in os.environ
 
-ALLOWED_HOSTS = ['8000-miswaq-kaffacoffee-87f2oq9o52t.ws-eu106.gitpod.io', 'kaffa-coffee-1c360e949e52.herokuapp.com']
+ALLOWED_HOSTS = ['8000-miswaq-kaffacoffee-87f2oq9o52t.ws-eu110.gitpod.io', 'kaffa-coffee-1c360e949e52.herokuapp.com']
 
 
 # Application definition
@@ -49,8 +49,8 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-
     'home',
+    'products',
 
     # Other
     'storages',
