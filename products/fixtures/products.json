@@ -1,26 +1,128 @@
 [
     {
       "pk": 1,
-      "model": "products.category",
+      "model": "products.product",
       "fields": {
-        "name": "chocolate_bundle",
-        "friendly_name": "Chocolate Bundle"
+        "sku": "A001",
+        "name": "Dark Roast",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
       }
     },
     {
       "pk": 2,
-      "model": "products.category",
+      "model": "products.product",
       "fields": {
-        "name": "cookie_bundle",
-        "friendly_name": "Cookie Bundle"
+        "sku": "A002",
+        "name": "Medium Roast",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
       }
     },
     {
       "pk": 3,
-      "model": "products.category",
+      "model": "products.product",
       "fields": {
-        "name": "coffee-cup_bundle",
-        "friendly_name": "Coffee Cup Bundle"
+        "sku": "A003",
+        "name": "Light Roast",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.product",
+      "fields": {
+        "sku": "B001",
+        "name": "Dark Chocolate",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.product",
+      "fields": {
+        "sku": "B002",
+        "name": "Dark Arabic",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
+      }
+    },
+    {
+      "pk": 6,
+      "model": "products.product",
+      "fields": {
+        "sku": "B003",
+        "name": "Dark Bolivian",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
+      }
+    },
+    {
+      "pk": 7,
+      "model": "products.product",
+      "fields": {
+        "sku": "B004",
+        "name": "Dark Ethiopian",
+        "discription": ,
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
+      }
+    },
+    {
+      "pk": 8,
+      "model": "products.product",
+      "fields": {
+        "sku": "C001",
+        "name": "Ethiopian Unroasted",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
+      }
+    },
+    {
+      "pk": 9,
+      "model": "products.product",
+      "fields": {
+        "sku": "C002",
+        "name": "New Taste",
+        "discription": "info coming",
+        "price": ,
+        "category": ,
+        "rating": ,
+        "image_url": "",
+        "image": ""
       }
     }
   ]

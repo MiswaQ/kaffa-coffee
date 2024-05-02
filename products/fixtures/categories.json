@@ -3,24 +3,24 @@
         "pk": 1,
         "model": "products.category",
         "fields": {
-            "name": "chocolate_bundle",
-            "friendly_name": "Chocolate Bundle"
+            "name": "large",
+            "friendly_name": "Large Packages"
         }
       },
     {
         "pk": 2,
         "model": "products.category",
         "fields": {
-            "name": "cookie_bundle",
-            "friendly_name": "Cookie Bundle"
+            "name": "medium",
+            "friendly_name": "Medium Packages"
         }
       },
     {
         "pk": 3,
         "model": "products.category",
         "fields": {
-            "name": "coffee-cup_bundle",
-            "friendly_name": "Coffee Cup Bundle"
+            "name": "new",
+            "friendly_name": "New Arrivals"
         }
       }
 ]
