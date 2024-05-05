@@ -62,12 +62,26 @@ footer {
 /* Sign in and Sign out css */
 
 .content {
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+    font-family: 'Lato' sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: calc(100vh - 120px);
 }
 
 .btn.themed-btn {
-    
+    background-color: #556b2f;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border-radius: 4px;
+    font-family: 'Lato' sans-serif;
+    transition: background-color 0.3s;
+}
+
+.btn.themed-btn:hover {
+    background-color: #6b8f5e;
 }
