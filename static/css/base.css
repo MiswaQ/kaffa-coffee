@@ -3,120 +3,71 @@ html {
 }
 
 body {
+    background-color: #f4f4f4;
     background: url('https://res.cloudinary.com/miswaq/image/upload/v1700998773/Kaffa%20Coffee/coffee_roast_jrkhrz.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 164px);
-    color: #555;
-    font-family: 'Playfair Display';
+    height: calc(100vh - 120px);
+    color: #362c28;
+    font-family: 'Lato', sans-serif;
 }
 
-h1, h2 {
-    font-family: 'Playfair Display';
+h1, h2, h3 {
+    font-family: 'Playfair Display' serif;
 }
 
-p {
-    font-family: 'Lato';
+.content {
+    padding-top: 70px;
 }
 
-.nav-link {
-    font-family: 'Lato';
-}
-.bg-black {
-    background-color: black;
+/* coloring */
+
+.header-container, .navbar, #topnav {
+    background-color: #362c28;
+    color: #fff;
 }
 
-.first-card {
-    background: url('https://res.cloudinary.com/miswaq/image/upload/v1701200895/Kaffa%20Coffee/coffee_chocolate_bundle_ebacs0.png') no-repeat center;
-    background-size: cover;
-    color: #ffffff;
-    font-family: 'Lato';
+.nav_link {
+    color: #d2b48c;
 }
 
-.second-card {
-    background: url('https://res.cloudinary.com/miswaq/image/upload/v1701200891/Kaffa%20Coffee/coffee_cookies_bundle_llq5vn.png') no-repeat center;
-    background-size: cover;
-    color: #ffffff;
-    font-family: 'Lato';
+.nav_link:hover {
+    color: #fff;
 }
 
-.third-card {
-    background: url('https://res.cloudinary.com/miswaq/image/upload/v1701200894/Kaffa%20Coffee/coffee_cup_bundle_lvo6gm.png') no-repeat center;
-    background-size: cover;
-    color: #ffffff;
-    font-family: 'Lato';
+.btn, .shop-now-button, .btn-outline-sucess {
+    background-color: #556b2f;
+    color: #fff;
+    border: none;
 }
 
-.first-card,img {
-    max-width: 100%;
-    height: 100%;
+.btn:hover, .shop-now-button:hover, .btn-outline-sucess:hover {
+    background-color: #6b8f5e;
 }
 
-/* from Bulma */
-.icon {
+footer {
+    background-color: #362c28;
+    color: #fff;
+}
+
+/* placing */
+
+.my-auto {
+    margin: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Sign in and Sign out css */
+
+.content {
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    display: inline-flex;
     justify-content: center;
-    height: 1.5rem;
-    width: 1.5rem;
 }
 
-.logo-font {
-    text-transform: uppercase;
-}
-
-.main-logo-link {
-    width: fit-content;
-}
-
-.shop-now-button {
-    background: black;
-    color: white;
-    min-width: 260px;
-}
-
-.btn-black {
-    background: black;
-    color: white;
-}
-
-.shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
-    background: #222;
-    color: white;
-}
-
-.text-black {
-    color: #000 !important;
-}
-
-.border-black {
-    border: 1px solid black !important;
-}
-
-/* -------------------------------- Media Queries */
-
-/* Slightly larger container on xl screens */
-@media (min-width: 1200px) {
-  .container {
-    max-width: 80%;
-  }
-}
-
-/* fixed top navbar only on medium and up */
-@media (min-width: 992px) {
-    .fixed-top-desktop-only {
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: 1030;
-    }
-
-    .header-container {
-        padding-top: 164px;
-    }
+.btn.themed-btn {
+    
 }
