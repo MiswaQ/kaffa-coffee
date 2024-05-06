@@ -5,12 +5,12 @@
       "fields": {
         "sku": "A001",
         "name": "Dark Roast",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "A deep and intense dark roast coffee, perfect for those who enjoy a strong, bold flavor.",
+        "price": 49.99,
+        "category": 2,
+        "rating": 4.7,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_roast_zqlj4q.jpg",
+        "image": "dark_roast.jpg"
       }
     },
     {
@@ -19,12 +19,12 @@
       "fields": {
         "sku": "A002",
         "name": "Medium Roast",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Balanced and smooth, this medium roast suits every coffee lover’s palate.",
+        "price": 49.99,
+        "category": 2,
+        "rating": 5,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036522/Kaffa%20Coffee/New/medium_roast_ewpskz.jpg",
+        "image": "medium_roast.jpg"
       }
     },
     {
@@ -33,12 +33,12 @@
       "fields": {
         "sku": "A003",
         "name": "Light Roast",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Light and invigorating with subtle complexities, ideal for a gentle morning wake-up.",
+        "price": 49.99,
+        "category": 2,
+        "rating": 4.4,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036521/Kaffa%20Coffee/New/light_roast_cyvp3s.jpg",
+        "image": "light_roast.jpg"
       }
     },
     {
@@ -47,12 +47,12 @@
       "fields": {
         "sku": "B001",
         "name": "Dark Chocolate",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Luxurious dark chocolate notes blend perfectly with dark roasted coffee beans.",
+        "price": 59.99,
+        "category": 1,
+        "rating": 4.5,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036517/Kaffa%20Coffee/New/dark_chocolate_fwprai.jpg",
+        "image": "dark_chocolate.jpg"
       }
     },
     {
@@ -61,12 +61,12 @@
       "fields": {
         "sku": "B002",
         "name": "Dark Arabic",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Exotic Arabic beans dark roasted to enhance their inherently spicy undertones.",
+        "price": 59.99,
+        "category": 1,
+        "rating": 4,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_arabic_cgxyaz.jpg",
+        "image": "dark_arabic.jpg"
       }
     },
     {
@@ -75,12 +75,12 @@
       "fields": {
         "sku": "B003",
         "name": "Dark Bolivian",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Rich and robust, with a slightly smoky flavor typical of Bolivian beans.",
+        "price": 59.99,
+        "category": 1,
+        "rating": 3.5,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036517/Kaffa%20Coffee/New/dark_bolivian_oekth8.jpg",
+        "image": "dark_bolivian.jpg"
       }
     },
     {
@@ -89,12 +89,12 @@
       "fields": {
         "sku": "B004",
         "name": "Dark Ethiopian",
-        "discription": ,
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Features authentic Ethiopian beans, celebrated for their citrus and floral notes.",
+        "price": 59.99,
+        "category": 1,
+        "rating": 4.9,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_ethiopian_vodqbc.jpg",
+        "image": "dark_ethiopian.jpg"
       }
     },
     {
@@ -103,12 +103,12 @@
       "fields": {
         "sku": "C001",
         "name": "Ethiopian Unroasted",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "Unroasted Ethiopian beans, ideal for those who like to roast their coffee to personal taste.",
+        "price": 39.99,
+        "category": 3,
+        "rating": 2.1,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/extra_ethiopian_oywdl9.jpg",
+        "image": "extra_ethiopian.jpg"
       }
     },
     {
@@ -117,12 +117,12 @@
       "fields": {
         "sku": "C002",
         "name": "New Taste",
-        "discription": "info coming",
-        "price": ,
-        "category": ,
-        "rating": ,
-        "image_url": "",
-        "image": ""
+        "discription": "A mysterious and innovative blend, designed to surprise and delight the adventurous coffee aficionado.",
+        "price": 29.99,
+        "category": 3,
+        "rating": 2.9,
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036519/Kaffa%20Coffee/New/extra_taste_u6ojxh.jpg",
+        "image": "extra_taste.jpg"
       }
     }
   ]
