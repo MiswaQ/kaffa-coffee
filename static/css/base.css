@@ -7,7 +7,7 @@ body {
     background: url('https://res.cloudinary.com/miswaq/image/upload/v1700998773/Kaffa%20Coffee/coffee_roast_jrkhrz.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 120px);
-    color: #362c28;
+    color: #5a2611;
     font-family: 'Playfair Display', serif;
 }
 
@@ -18,7 +18,7 @@ h1, h2, h3 {
 /* coloring */
 
 .header-container, .navbar, #topnav {
-    background-color: #362c28;
+    background-color: #5a2611;
     color: #fff;
 }
 
@@ -42,7 +42,7 @@ h1, h2, h3 {
 }
 
 footer {
-    background-color: #362c28;
+    background-color: #5a2611;
     color: #fff;
 }
 
