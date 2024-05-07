@@ -6,6 +6,7 @@ body {
     background-color: #f4f4f4;
     background: url('https://res.cloudinary.com/miswaq/image/upload/v1700998773/Kaffa%20Coffee/coffee_roast_jrkhrz.jpg') no-repeat center center fixed;
     background-size: cover;
+    padding-top: 160px;
     height: calc(100vh - 120px);
     color: #5a2611;
     font-family: 'Playfair Display', serif;
@@ -44,6 +45,18 @@ h1, h2, h3 {
 footer {
     background-color: #5a2611;
     color: #fff;
+}
+
+/* Products */
+
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
 }
 
 /* placing */
