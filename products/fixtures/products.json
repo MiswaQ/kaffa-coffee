@@ -5,7 +5,7 @@
       "fields": {
         "sku": "A001",
         "name": "Dark Roast",
-        "discription": "A deep and intense dark roast coffee, perfect for those who enjoy a strong, bold flavor.",
+        "description": "A deep and intense dark roast coffee, perfect for those who enjoy a strong, bold flavor.",
         "price": 49.99,
         "category": 2,
         "rating": 4.7,
@@ -19,7 +19,7 @@
       "fields": {
         "sku": "A002",
         "name": "Medium Roast",
-        "discription": "Balanced and smooth, this medium roast suits every coffee lover’s palate.",
+        "description": "Balanced and smooth, this medium roast suits every coffee lover’s palate.",
         "price": 49.99,
         "category": 2,
         "rating": 5,
@@ -33,7 +33,7 @@
       "fields": {
         "sku": "A003",
         "name": "Light Roast",
-        "discription": "Light and invigorating with subtle complexities, ideal for a gentle morning wake-up.",
+        "description": "Light and invigorating with subtle complexities, ideal for a gentle morning wake-up.",
         "price": 49.99,
         "category": 2,
         "rating": 4.4,
@@ -47,7 +47,7 @@
       "fields": {
         "sku": "B001",
         "name": "Dark Chocolate",
-        "discription": "Luxurious dark chocolate notes blend perfectly with dark roasted coffee beans.",
+        "description": "Luxurious dark chocolate notes blend perfectly with dark roasted coffee beans.",
         "price": 59.99,
         "category": 1,
         "rating": 4.5,
@@ -61,7 +61,7 @@
       "fields": {
         "sku": "B002",
         "name": "Dark Arabic",
-        "discription": "Exotic Arabic beans dark roasted to enhance their inherently spicy undertones.",
+        "description": "Exotic Arabic beans dark roasted to enhance their inherently spicy undertones.",
         "price": 59.99,
         "category": 1,
         "rating": 4,
@@ -75,7 +75,7 @@
       "fields": {
         "sku": "B003",
         "name": "Dark Bolivian",
-        "discription": "Rich and robust, with a slightly smoky flavor typical of Bolivian beans.",
+        "description": "Rich and robust, with a slightly smoky flavor typical of Bolivian beans.",
         "price": 59.99,
         "category": 1,
         "rating": 3.5,
@@ -89,7 +89,7 @@
       "fields": {
         "sku": "B004",
         "name": "Dark Ethiopian",
-        "discription": "Features authentic Ethiopian beans, celebrated for their citrus and floral notes.",
+        "description": "Features authentic Ethiopian beans, celebrated for their citrus and floral notes.",
         "price": 59.99,
         "category": 1,
         "rating": 4.9,
@@ -103,7 +103,7 @@
       "fields": {
         "sku": "C001",
         "name": "Ethiopian Unroasted",
-        "discription": "Unroasted Ethiopian beans, ideal for those who like to roast their coffee to personal taste.",
+        "description": "Unroasted Ethiopian beans, ideal for those who like to roast their coffee to personal taste.",
         "price": 39.99,
         "category": 3,
         "rating": 2.1,
@@ -117,7 +117,7 @@
       "fields": {
         "sku": "C002",
         "name": "New Taste",
-        "discription": "A mysterious and innovative blend, designed to surprise and delight the adventurous coffee aficionado.",
+        "description": "A mysterious and innovative blend, designed to surprise and delight the adventurous coffee aficionado.",
         "price": 29.99,
         "category": 3,
         "rating": 2.9,
