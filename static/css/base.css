@@ -35,7 +35,6 @@ h1, h2, h3 {
     background-color: #556b2f;
     color: #fff;
     border: 1px solid #ccc;
-    border-radius: px;
 }
 
 .btn:hover, .shop-now-button:hover, .btn-outline-sucess:hover {
@@ -61,6 +60,16 @@ footer {
 	position: fixed;
 	background: white;
 	z-index: -1;
+}
+
+a.category-badge > span.badge {
+    background-color: #556b2f;
+    color: #fff;
+}
+
+a.category-badge > span.badge:hover {
+    background-color: #6b8f5e;
+    color: #1f2710;
 }
 
 /* placing */
