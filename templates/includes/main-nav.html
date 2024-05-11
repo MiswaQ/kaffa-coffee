@@ -20,6 +20,7 @@
                 <a href="/products/3/" class="dropdown-item">Light Roast</a>
                 <a href="/products/2/" class="dropdown-item">Medium Roast</a>
                 <a href="/products/1/" class="dropdown-item">Dark Roast</a>
+                <a href="{% url 'products' %}?category=large" class="dropdown-item">Big Package</a>
             </div>
         </li>
 
@@ -32,6 +33,7 @@
                 <a href="/products/5/" class="dropdown-item">Dark Arabic</a>
                 <a href="/products/6/" class="dropdown-item">Dark Bolivian</a>
                 <a href="/products/4/" class="dropdown-item">Dark Chocolate</a>
+                <a href="{% url 'products' %}?category=medium" class="dropdown-item">Medium Package</a>
             </div>
         </li>
 
@@ -42,6 +44,7 @@
             <div class="dropdown-menu border-0" aria-labelledby="new-link">
                 <a href="/products/9/" class="dropdown-item">Extra taste</a>
                 <a href="/products/8/" class="dropdown-item">Extra Ethiopian</a>
+                <a href="{% url 'products' %}?category=new" class="dropdown-item">New Arrivals</a>
             </div>
         </li>
     </ul>
