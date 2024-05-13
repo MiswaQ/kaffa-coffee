@@ -91,6 +91,12 @@ a.category-badge > span.badge:hover {
     cursor: pointer;
 }
 
+.btn-outline-black {
+    background: #556b2f;
+    color: #fff !important;
+    border: 1px solid black;
+}
+
 @keyframes flickerAnimation {
     0%, 100% {
         color: white;
@@ -102,9 +108,9 @@ a.category-badge > span.badge:hover {
 
 .flicker-text {
     animation-name: flickerAnimation;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-iteration-count: infinite;
-    font-size: 12px;
+    font-size: 18px;
     font-family: 'Lato' sans-serif;
 }
 
