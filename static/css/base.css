@@ -93,6 +93,27 @@ a.category-badge > span.badge:hover {
     cursor: pointer;
 }
 
+.custom-button {
+    background-color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+.custom-button.update {
+    color: #28a745;
+    border: 1px solid #28a745;
+}
+
+.custom-button.remove {
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}
+
+.custom-button:hover {
+    background-color: #6b8f5e;
+}
+
 /* Bootstrap toasts */
 
 .message-container {
