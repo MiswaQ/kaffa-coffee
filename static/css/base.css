@@ -6,7 +6,8 @@ body {
     background-color: #f4f4f4;
     background: url('https://res.cloudinary.com/miswaq/image/upload/v1700998773/Kaffa%20Coffee/coffee_roast_jrkhrz.jpg') no-repeat center center fixed;
     background-size: cover;
-    padding: 160px;
+    padding-top: 12%;
+    margin: 30px;
     height: calc(100vh - 164px);
     color: #5a2611;
     font-family: 'Playfair Display', serif;
@@ -18,9 +19,22 @@ h1, h2, h3 {
 
 /* coloring */
 
-.header-container, .navbar, #topnav {
-    background-color: #5a2611;
+header {
+}
+
+#topnav {
+    background: url('https://res.cloudinary.com/miswaq/image/upload/v1715784183/Kaffa%20Coffee/coffee-bean-border-isolated-png_myxjk5.webp') no-repeat center center;
+    background-size: cover;
+    z-index: 1;
+    background-color: #000000;
     color: #fff;
+}
+
+.header-container, .navbar {
+    background-color: #000000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
 .nav_link {
