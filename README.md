@@ -66,8 +66,8 @@ The color scheme of Kaffa Coffee is inspired by the rich and warm tones of Ethio
 
 The fonts used in the Kaffa Coffee project are:
 
-- **Primary Font:** 'Roboto', sans-serif
-- **Secondary Font:** 'Open Sans', sans-serif
+- **Primary Font:** 'Playfair Display', serif;
+- **Secondary Font:** 'Lato' sans-serif
 
 These fonts were chosen for their readability and modern aesthetic, enhancing the user experience on the site.
 
