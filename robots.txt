@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaffa-coffee-1c360e949e52.herokuapp.com/sitemap.xml
