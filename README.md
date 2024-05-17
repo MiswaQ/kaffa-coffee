@@ -2,8 +2,7 @@
 
 Welcome to Kaffa Coffee, an Ethiopian coffee shop built as part of my e-commerce specialization project portfolio for the Full Stack Software Development diploma at Code Institute. This webshop is designed for coffee lovers, offering a taste of "the kingdom of Kaffa," the birthplace of coffee. Our webshop is straightforward, featuring a shop page, about page, and a signup page for users to receive newsletters and updates on new coffee arrivals.
 
-![Homepage](https://github.com/MiswaQ/kaffa-coffee/assets/121927777/d8e4dd40-8c27-437d-b5ca-c70f02e52cb9)
-*(This is how I envision the landing page when the project is finished)*
+![homepage-kaffa-coffee](https://github.com/MiswaQ/kaffa-coffee/assets/121927777/7e1d6bb2-ad89-43ac-ac63-113cb577ffbc)
 
 ## Planning
 
@@ -28,12 +27,11 @@ With these considerations, I planned the e-commerce application to include:
 
 ### Homepage
 
-The homepage of Kaffa Coffee is designed to welcome users with a visually appealing layout that highlights our coffee products. It features:
+The homepage of Kaffa Coffee is designed to welcome users with a visually appealing layout with a "shop now" button to let the customer drop right in to the coffee shop. It features:
 
 - **Header:** Navigation menu with links to the shop, about page, user account, and wishlist.
-- **Main Banner:** Eye-catching images of coffee and special offers.
 - **Featured Products:** Display of popular coffee products with images, prices, and ratings.
-- **Newsletter Signup:** Form for users to sign up for updates and newsletters.
+- **Signup:** Form for users to sign up.
 - **Footer:** Contact information, social media links, and additional resources.
 
 ### Shop Page
