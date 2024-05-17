@@ -9,7 +9,7 @@ body {
     padding-top: 12%;
     margin: 30px;
     height: calc(100vh - 164px);
-    color: #5a2611;
+    color: #6F4E37;
     font-family: 'Playfair Display', serif;
 }
 
@@ -38,7 +38,7 @@ header {
 }
 
 .nav_link {
-    color: #d2b48c;
+    color: #D9B382;
 }
 
 .nav_link:hover {
