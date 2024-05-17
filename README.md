@@ -1,32 +1,32 @@
 # Kaffa Coffee
 
-[Kaffa Coffee](https://kaffa-coffee-1c360e949e52.herokuapp.com/) is a potential Ethiopian coffee shop that I have built as my e-commerce specialization Project Portfolio 5 for my diploma in Full Stack Software Development at Code Institute. 
-This webshop is built for coffee lovers, from “the kingdom of kaffa” (i.e. Ethiopia), where the origin of coffee started. The webshop is simple and straight to the point, with a shop page, about page and of course a sign up page so that the users can sign up for newsletters and get all the updates about the business and if there is any new coffee available. 
+Welcome to [Kaffa Coffee](https://kaffa-coffee-1c360e949e52.herokuapp.com/), an Ethiopian coffee shop built as part of my e-commerce specialization project portfolio for the Full Stack Software Development diploma at Code Institute. This webshop is designed for coffee lovers, offering a taste of "the kingdom of Kaffa," the birthplace of coffee. Our webshop is straightforward, featuring a shop page, about page, and a signup page for users to receive newsletters and updates on new coffee arrivals. 
 <img width="627" alt="homepage_desktop" src="https://github.com/MiswaQ/kaffa-coffee/assets/121927777/d8e4dd40-8c27-437d-b5ca-c70f02e52cb9">
 <br>(This is how I envision the landing page when the project is finished)
 
 ## Planning
-At the beginning of this project I started out with these three questions to get a better idea of what type of application I wanted to build, and the outcome is as follows:
+At the beginning of this project, I considered the following questions to guide the development of the application:
 <br>
 <br>
 **Who is the customer?** B2C - Business to Customer
 <br>
-**What will they buy?** Products
+**What will they buy?** Coffee products
 <br>
 **How will they pay?** Single payment
 <br>
 <br>
-Then I followed up with these three questions to plan my e-commerce application:
+With these considerations, I planned the e-commerce application to include:
 <br>
-- **Which e-commerce application types apply to this online business?**
+- **E-commerce application types: **
   <br> B2C, Products, Single payments
-- **With the e-commerce application types in mind, what kind of features might be included within the business website?**
-  <br> Easy Payment, Authentication System for users to log in/out and access their relevant data, Authentication with social accounts for easier registration, Search Function, Images, Product Description, Ratings/Reviews, Contact Form, Shopping Cart and Payment System
-- **What tables of data would my database need, and what data might be included in these tables?**
+- **Features:**
+  <br> Easy Payment, User Authentication, Social Media Authentication, Search Functionality, Product Descriptions, Ratings/Reviews, Contact Form, Shopping Cart, Payment System, and Wishlist
+- **Database tables:**
   <br> User: username, email, password
-  <br> Product: name, image, price, description, size, rating
+  <br> Product: name, image, price, description, rating
   <br> Order: User, total, full_name, address
   <br> OrderItem: Order, Product, quantity
+  <br> Wishlist: user, product
 
 ## Features
 I have just started off with my project. Because of medical leave and parental leave I have lost some time and fallen behind.
