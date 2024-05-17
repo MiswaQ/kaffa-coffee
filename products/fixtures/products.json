@@ -9,7 +9,7 @@
         "price": 49.99,
         "category": 2,
         "rating": 4.7,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_roast_zqlj4q.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/light_roast.jpg",
         "image": "dark_roast.jpg"
       }
     },
@@ -23,7 +23,7 @@
         "price": 49.99,
         "category": 2,
         "rating": 5,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036522/Kaffa%20Coffee/New/medium_roast_ewpskz.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/medium_roast.jpg",
         "image": "medium_roast.jpg"
       }
     },
@@ -37,7 +37,7 @@
         "price": 49.99,
         "category": 2,
         "rating": 4.4,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036521/Kaffa%20Coffee/New/light_roast_cyvp3s.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/light_roast.jpg",
         "image": "light_roast.jpg"
       }
     },
