@@ -85,7 +85,14 @@
                             <input type="hidden" name="redirect_url" value="{{ request.path }}">
                         </div>
                     </form>
-                </div></div>
+                </div>
+                <div class="text-white">
+                    <h1>{{ product.name }}</h1>
+                    <p>{{ product.description }}</p>
+                    <p>Price: {{ product.price }}</p>
+                    <a href="{% url 'add_to_wishlist' product.id %}">Add to Wishlist</a>
+                </div>
+            </div>
         </div>        
     </div>
 {% endblock %}
