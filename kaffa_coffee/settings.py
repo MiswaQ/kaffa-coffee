@@ -29,9 +29,9 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True # 'DEVELOPMENT' in os.environ
+DEBUG =  'DEVELOPMENT' in os.environ
 
-ALLOWED_HOSTS = ['8000-miswaq-kaffacoffee-87f2oq9o52t.ws-eu111.gitpod.io', 'kaffa-coffee-1c360e949e52.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'kaffa-coffee-1c360e949e52.herokuapp.com']
 
 
 # Application definition
@@ -173,7 +173,7 @@ USE_L10N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
+# Static files (CSS, JavaScript, Images) 
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'

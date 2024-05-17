@@ -13,7 +13,7 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="clothing-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="{% url 'products' %}?category=large" id="clothing-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Big Package
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="bigpackage-link">
@@ -25,7 +25,7 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="homeware-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="{% url 'products' %}?category=medium" id="homeware-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Medium Package
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="mediumpackage-link">
@@ -38,7 +38,7 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white" href="#" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white" href="{% url 'products' %}?category=new" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 New Arrivals
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="new-link">
