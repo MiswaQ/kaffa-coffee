@@ -9,7 +9,7 @@
         "price": 49.99,
         "category": 2,
         "rating": 4.7,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_roast_zqlj4q.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045842/Kaffa%20Coffee/New/dark_roast_xiqret.jpg",
         "image": "dark_roast.jpg"
       }
     },
@@ -23,7 +23,7 @@
         "price": 49.99,
         "category": 2,
         "rating": 5,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036522/Kaffa%20Coffee/New/medium_roast_ewpskz.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045852/Kaffa%20Coffee/New/medium_roast_zahit6.jpg",
         "image": "medium_roast.jpg"
       }
     },
@@ -37,7 +37,7 @@
         "price": 49.99,
         "category": 2,
         "rating": 4.4,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036521/Kaffa%20Coffee/New/light_roast_cyvp3s.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045850/Kaffa%20Coffee/New/light_roast_ensjgm.jpg",
         "image": "light_roast.jpg"
       }
     },
@@ -51,7 +51,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 4.5,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036517/Kaffa%20Coffee/New/dark_chocolate_fwprai.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045854/Kaffa%20Coffee/New/dark_chocolate_q3dlfv.jpg",
         "image": "dark_chocolate.jpg"
       }
     },
@@ -65,7 +65,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 4,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_arabic_cgxyaz.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045857/Kaffa%20Coffee/New/dark_arabic_ck0lab.jpg",
         "image": "dark_arabic.jpg"
       }
     },
@@ -79,7 +79,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 3.5,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036517/Kaffa%20Coffee/New/dark_bolivian_oekth8.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045841/Kaffa%20Coffee/New/dark_bolivian_ajfp29.jpg",
         "image": "dark_bolivian.jpg"
       }
     },
@@ -93,7 +93,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 4.9,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_ethiopian_vodqbc.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045860/Kaffa%20Coffee/New/dark_ethiopian_u7n0ah.jpg",
         "image": "dark_ethiopian.jpg"
       }
     },
@@ -107,7 +107,7 @@
         "price": 39.99,
         "category": 3,
         "rating": 2.1,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/extra_ethiopian_oywdl9.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045845/Kaffa%20Coffee/New/extra_ethiopian_yrunic.jpg",
         "image": "extra_ethiopian.jpg"
       }
     },
@@ -121,7 +121,7 @@
         "price": 29.99,
         "category": 3,
         "rating": 2.9,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036519/Kaffa%20Coffee/New/extra_taste_u6ojxh.jpg",
+        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715045847/Kaffa%20Coffee/New/extra_taste_idq6dr.jpg",
         "image": "extra_taste.jpg"
       }
     }
