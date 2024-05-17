@@ -51,7 +51,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 4.5,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036517/Kaffa%20Coffee/New/dark_chocolate_fwprai.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/dark_chocolate.jpg",
         "image": "dark_chocolate.jpg"
       }
     },
@@ -65,7 +65,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 4,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_arabic_cgxyaz.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/dark_arabic.jpg",
         "image": "dark_arabic.jpg"
       }
     },
@@ -79,7 +79,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 3.5,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036517/Kaffa%20Coffee/New/dark_bolivian_oekth8.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/dark_bolivian.jpg",
         "image": "dark_bolivian.jpg"
       }
     },
@@ -93,7 +93,7 @@
         "price": 59.99,
         "category": 1,
         "rating": 4.9,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/dark_ethiopian_vodqbc.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/dark_ethiopian.jpg",
         "image": "dark_ethiopian.jpg"
       }
     },
@@ -107,7 +107,7 @@
         "price": 39.99,
         "category": 3,
         "rating": 2.1,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036518/Kaffa%20Coffee/New/extra_ethiopian_oywdl9.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/extra_ethiopian.jpg",
         "image": "extra_ethiopian.jpg"
       }
     },
@@ -121,7 +121,7 @@
         "price": 29.99,
         "category": 3,
         "rating": 2.9,
-        "image_url": "https://res.cloudinary.com/miswaq/image/upload/v1715036519/Kaffa%20Coffee/New/extra_taste_u6ojxh.jpg",
+        "image_url": "https://kaffa-coffee.s3.eu-north-1.amazonaws.com/media/extra_taste.jpg",
         "image": "extra_taste.jpg"
       }
     }
